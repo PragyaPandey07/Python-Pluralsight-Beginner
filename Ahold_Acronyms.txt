@@ -1,0 +1,47 @@
+• ADRM = Ahold Retail Media
+• ADUSA = Ahold Delhaize USA
+• GLBs = Great Local Brands (all store brands)
+• CAD = CitrusAd
+• PDL = Peapod Digital Labs
+• AM = Account Manager
+• CPG = Consumer Packaged Goods (Brand or Vendor or Advertiser)
+• UPC = Universal Product Code 
+• CTA = Call to Action
+• CTV/ OTT = Connected TV
+• OLV = Online Video
+• PDP = Product Details Page
+• DOOH = Digital Out of Home
+• KWM = Key Web Messages – referring to the copy (typically on landing page headers)
+• IO = Insertion Order
+• POS = Point of Sale
+• CTR = Click Through Rate
+• RPM = Revenue Per Thousand Impressions
+• CPM = Cost Per Mille
+Is a paid advertising option where companies pay a price for every 1,000 impressions an ad
+receives.
+CPM charges the advertiser whenever a promotional message is successfully displayed on a
+person’s web browser
+• CPC = Cost Per Click
+Requires a business to pay every time someone clicks on an ad)
+• CPA = Cost Per Acquisition
+Campaigns charge a brand whenever a customer converts by completing a critical action
+• ROI = Return On Investment
+• ROAS = Return On Advertising Spend
+• ATC = Adds to Cart
+• TPR = Temporary Price Reduction - on the site you would see a red flag next to the item,
+indicating a discounted price
+• DIF = Delivered In Full
+• SPA = Sponsored Product Ad
+• CTV = Connected TV_ Video Advertising
+• OLV = Online Video _ advertising
+• OTT = Over the top _ video advertising
+• CMS = Content Management System (Examples: Ektron, AWS, Untana, PRISM)
+• API = Application Programming Interface
+• SOW = Statement of Work
+• FL or FDL = Food Lion
+• HNF = Hannaford
+• GF = Giant Food, also sometimes referred to as Giant Landover
+• GNT = GIANT*, also sometimes (formerly) referred to as Giant Carlisle or Giant Co.
+• TGC = The Giant Company*
+• MRT = MARTIN’S*
+• SNS = Stop & Shop
